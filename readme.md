@@ -30,3 +30,6 @@ if you have changes in your machine - so either you resolve that or use git rese
 git clean -fd git pull
 
 when we do clone in our own repo git init git add README.md git add . git commit -m "first commit" git branch -M main git remote add origin https://github.com/MishraAshish/MERNStack7.git git push -u origin main
+
+
+<!-- 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 -->
